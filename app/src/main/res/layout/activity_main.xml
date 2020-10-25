@@ -26,7 +26,7 @@
         android:layout_marginTop="76dp"
         android:layout_marginEnd="155dp"
         android:layout_marginRight="155dp"
-        android:text="Button"
+        android:text="b1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.461"
         app:layout_constraintStart_toStartOf="parent"
